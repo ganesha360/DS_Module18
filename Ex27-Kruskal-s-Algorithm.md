@@ -17,8 +17,8 @@ the edge to the spanlist and unite the sets using union1.
 ```
 /*
 Program to implement Kruskal's Algorithm
-Developed by: KANISHKAR M
-RegisterNumber: 212222240044
+Developed by: GANESH R
+RegisterNumber: 212222240029
 */
 #include<stdio.h> 
 #defineMAX30
